@@ -1,6 +1,6 @@
 # Transcriber Component
 
-Este componente realiza a transcrição de áudio em texto de forma simples e eficaz. Ele aceita arquivos de áudio no formato `.wav` e converte o conteúdo em texto utilizando tecnologias integradas.
+Este componente realiza a transcrição de áudio em texto de forma simples e eficaz utilizando o Whisper da OpenAI. Ele aceita arquivos de áudio no formato `.wav` e converte o conteúdo em texto utilizando tecnologias integradas.
 
 ## Pré-requisitos
 
